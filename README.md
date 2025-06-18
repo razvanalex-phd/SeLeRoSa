@@ -135,7 +135,7 @@ Some statistics about the dataset can be found in the `results/figures/` directo
 
 ## Experiments
 
-In the `satire/experiments/` directory, you can find the code used to run the experiments presented in the paper. There are scripts for training and evaluating the models, as well as for generating the results, which can be found in the `scripts/` directory.
+In the `satire/experiments/` directory, you can find the code used to run the experiments presented in the paper. There are scripts for training and evaluating the models, which can be found in the `scripts/` directory.
 
 To run the experiments, you will need to install the following dependencies:
 
