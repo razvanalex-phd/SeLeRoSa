@@ -5682,7 +5682,7 @@ index,news_id,sentence,domain,label_0,label_1,label_2,label,split
 5680,292,cazan valorific <PERSON> chirie proprietar,life-death,1,0,0,0,train
 5681,292,maxim putea ruga mort presta muncă folos băncă eventual bântui stingere datorie <PERSON> viață restanță rată,life-death,1,0,1,1,train
 5682,292,sursă foto realitate,life-death,0,0,0,0,train
-5683,-1,,,0,0,0,0,train
+5683,292,,life-death,0,0,0,0,train
 5684,293,<PERSON> câștiga loto milion euro vrea munci continuare,life-death,0,1,0,0,test
 5685,293,ştire susține teorie vechi,life-death,0,0,0,0,test
 5686,293,lucra presă întreg strânge venin poliță plătit,life-death,0,1,0,0,test
@@ -8645,7 +8645,7 @@ index,news_id,sentence,domain,label_0,label_1,label_2,label,split
 8643,537,studiu atrage atenție <PERSON> risc alimentar aliment pescui ,life-death,0,0,0,0,train
 8644,537,vas pescuit pleca dimineața larg seara încărca ceapă ardei portocal etcetera,life-death,0,0,0,0,train
 8645,537,tradiție somalez strict privi atitudine aliment,life-death,0,0,0,0,train
-8646,-1,familie somaleze discuție mâncare subiect tabu,,0,0,1,0,train
+8646,537,familie somaleze discuție mâncare subiect tabu,life-death,0,0,1,0,train
 8647,537,aduce vorbă <PERSON> mic întreba <PERSON> mamă mânca,life-death,0,1,0,0,train
 8648,1,vedea,cronica-de-film,0,0,0,0,validation
 8649,537,<PERSON> activ  conștient risc expune consuma aliment încerca concentra activitate precum război civil,life-death,1,1,1,1,train

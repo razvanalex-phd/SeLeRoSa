@@ -5692,7 +5692,7 @@ index,news_id,sentence,domain,label_0,label_1,label_2,label,split
 5680,292,"Cazanul oricum nu pot să-l valorifice, că <PERSON> stă cu chirie acolo, nu e proprietar.",life-death,1,0,0,0,train
 5681,292,"Maxim ar putea ruga mortul să presteze muncă în folosul băncii, eventual să bântuie pâna la stingerea datoriilor sale <PERSON> în viaţă care au restanţe la rate.",life-death,1,0,1,1,train
 5682,292,Sursa foto: Realitatea.,life-death,0,0,0,0,train
-5683,-1,Net,,0,0,0,0,train
+5683,292,Net,life-death,0,0,0,0,train
 5684,293,"O <PERSON> de la NBC a câştigat la loto 266 de milioane de euro, dar vrea să muncească în continuare.",life-death,0,1,0,0,test
 5685,293,Ştirea asta susţine o teorie mai veche de-a mea.,life-death,0,0,0,0,test
 5686,293,"După ce ai lucrat un timp în presă, deja nu mai eşti întreg, ai strâns venin în tine, ai tot felul de poliţe de plătit.",life-death,0,1,0,0,test
@@ -8675,7 +8675,7 @@ index,news_id,sentence,domain,label_0,label_1,label_2,label,split
 8643,537,"Studiul atrage atenția și asupra altor <PERSON> de risc alimentar, cum sunt alimentele pescuite din <LOC>.",life-death,0,0,0,0,train
 8644,537,"Vasele de pescuit pleacă dimineața în larg iar seara vin încărcate cu ceapă, ardei, portocale, etc.",life-death,0,0,0,0,train
 8645,537,Tradiția somaleză este foarte strictă în ceea ce privește atitudinea față de alimente.,life-death,0,0,0,0,train
-8646,-1,În familiile somaleze discuțiile despre mâncare sunt un subiect tabu .,,0,0,1,0,train
+8646,537,În familiile somaleze discuțiile despre mâncare sunt un subiect tabu .,life-death,0,0,1,0,train
 8647,537,"Nimeni nu aduce vorba, doar <PERSON> mici își mai întreabă uneori <PERSON>: Mamă, noi când mâncăm?",life-death,0,1,0,0,train
 8648,1,Păi să vedem: în cât suntem azi?,cronica-de-film,0,0,0,0,validation
 8649,537,"<PERSON> activă a <GPE> este conștientă de riscurile la care s-ar expune consumând alimente, așa că încearcă să se concentreze pe alte activități, precum războiul civil.",life-death,1,1,1,1,train
