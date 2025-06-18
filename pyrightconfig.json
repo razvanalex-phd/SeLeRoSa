@@ -1,0 +1,14 @@
+{
+  "include": [
+    "**/*.py"
+  ],
+  "exclude": [
+    "venv",
+    "env",
+    "node_modules",
+    "dist",
+    "build"
+  ],
+  "reportMissingTypeStubs": false,
+  "typeCheckingMode": "standard"
+}

@@ -1,0 +1,12 @@
+[project]
+name = "satire"
+version = "0.0.1"
+description = "Sentence-level satire detection inside satirical news"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
