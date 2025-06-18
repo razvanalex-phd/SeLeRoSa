@@ -11,8 +11,8 @@
 This repository contains the code and data for the paper "SeLeRoSa - Sentence-Level Romanian Satire Detection Dataset". This dataset is intended for the task of satire detection in Romanian news articles at the sentence level.
 
 The dataset is provided in two versions:
-* [Anonymized](https://huggingface.co/datasets/unstpb-nlp/SeLeRoSa): this is a lightly processed version of the dataset
-* [Processed](https://huggingface.co/datasets/unstpb-nlp/SeLeRoSa-proc): this is processed version of the dataset, which includes additional text processing steps such as lemmatization, stop word removal, and punctuation removal.
+* [Anonymized](./data/csv/selerosa.csv): this is a lightly processed version of the dataset
+* [Processed](./data/csv/selerosa_proc.csv): this is processed version of the dataset, which includes additional text processing steps such as lemmatization, stop word removal, and punctuation removal.
 
 For more details about the anonymization and processing of the dataset, please refer to the [Dataset](#dataset) section below.
 
