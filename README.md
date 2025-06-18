@@ -8,7 +8,9 @@
 
 ## Description 
 
-This is the 
+This repository contains the code and data for the paper "SeLeRoSa - Sentence-Level Romanian Satire Detection Dataset". 
+
+The dataset can also be found on [Hugging Face](https://huggingface.co/collections/unstpb-nlp/selerosa-sentence-level-romanian-satire-detection-dataset-6852b46fa93704e84b05a7a9).
 
 ## Dataset
 
