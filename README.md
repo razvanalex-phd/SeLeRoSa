@@ -131,11 +131,11 @@ The following columns are available for every sample:
 
 ## Statistics
 
-Some statistics about the dataset can be found in the `results/figures/` directory.
+Some statistics about the dataset can be found in the [`results/figures/`](results/figures/) directory.
 
 ## Experiments
 
-In the [`satire/experiments/`](satire/experiments/) directory, you can find the code used to run the experiments presented in the paper. There are scripts for training and evaluating the models, which can be found in the `scripts/` directory.
+In the [`satire/experiments/`](satire/experiments/) directory, you can find the code used to run the experiments presented in the paper. There are scripts for training and evaluating the models, which can be found in the [`scripts/`](scripts/) directory.
 
 To run the experiments, you will need to install the following dependencies:
 
